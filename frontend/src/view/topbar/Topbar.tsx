@@ -7,7 +7,7 @@ export function Topbar() {
     <div className="topbar">
       <div className="topbarWrapper">
         <div className="topLeft">
-          <span className="logo">CryptoDash</span>
+          <span className="logo">DashBoard</span>
         </div>
         <div className="topRight">
           <div className="topbarIconContainer">

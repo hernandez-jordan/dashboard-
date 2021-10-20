@@ -1,5 +1,5 @@
-import avatar from "./cpunks.jpeg"
+import avatarImage from "./cpunks.jpeg"
 
 export const IMAGES = {
-    avatarIcon : avatar
+    avatarIcon : avatarImage
 }

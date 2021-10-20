@@ -1,8 +1,8 @@
-import AvatarImage from "../../assets/images/cpunks.jpeg";
+import { IMAGES } from "../../assets/images_folder/images";
 export default function Avatar() {
   return (
     <div>
-      <img src={AvatarImage} alt="" className="avatar" />
+      <img src={IMAGES.avatarIcon} alt="" className="avatar" />
     </div>
   );
 }
